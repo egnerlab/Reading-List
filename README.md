@@ -1,5 +1,7 @@
-# Egner Lab New Member Reading List (from Tobias)
-Some Great Miscellaneous Papers
+# Egner Lab New Member Reading List
+by Tobias Egner
+
+## Some Great Miscellaneous Papers
 
 Mesulam, M.M. (1998). From sensation to cognition. Brain, 121, 1013-1052.
 (Nice big-picture paper of brain organization and function)
